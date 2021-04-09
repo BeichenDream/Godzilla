@@ -1,7 +1,7 @@
 # Godzilla
 
 ## 运行环境
- 1. JavaDynamicPayload -> jre5及以上
+ 1. JavaDynamicPayload -> jre1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
  3. PhpDynamicPayload -> php5.0及以上
 
