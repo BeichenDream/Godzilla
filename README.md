@@ -4,6 +4,7 @@
  1. JavaDynamicPayload -> java1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
  3. PhpDynamicPayload ->  4.3.0及以上
+ 4. AspDynamicPayload -> 全版本
 
 ## 简介
 
