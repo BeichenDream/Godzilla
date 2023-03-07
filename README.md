@@ -1,5 +1,7 @@
 # Godzilla
 
+# 哥斯拉不存在任何商业版本/收费版本,且不属于任何公司
+
 ## 运行环境
  1. JavaDynamicPayload -> java1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
