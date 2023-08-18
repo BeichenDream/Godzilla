@@ -137,7 +137,7 @@ Base64 : Base64是将加密后的数据再进行Base64编码
      8. SweetPotato
 
      ```
-      Windwos权限提升		烂土豆的C#版本 甜土豆 
+      Windows权限提升		烂土豆的C#版本 甜土豆 
      ```
  3. PhpDynamicPayload
      1. PMeterpreter
